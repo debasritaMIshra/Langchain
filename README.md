@@ -1,1 +1,2 @@
 # Langchain
+we will build a chatbot for the Indian Penal Code. We'll start by downloading the official Indian Penal Code document, and then we'll create a chatbot that can interact with it. Users will be able to ask questions about the Indian Penal Code and have a conversation with it. 🤖🗣️ This chatbot will help users understand the legal provisions easily. 🌐 It's a great tool for students, lawyers, and anyone interested in Indian law. 📘 Get ready to explore the IPC like never before! 🚀
